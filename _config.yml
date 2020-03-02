@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: FengkieJ Personal Web
+title: FengkieJ Personal Weblog
 subtitle: ''
-description: ''
+description: 'amateur student, polyhistor wannabe, movie watcher, music listener, a freethinker, zombie shooter, dreamer, nerd, ninja! | Lifetime Learner | [0x1DEa5bd7f31B37CeffE1dbC2834E62a9f2E7262b](https://etherscan.io/address/0x1DEa5bd7f31B37CeffE1dbC2834E62a9f2E7262b)'
 keywords: fengkie, junis, fengkiej, personal, portofolio, web, blog
 author: FengkieJ
 language: en
@@ -25,7 +25,7 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
+archive_dir: blog
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
